@@ -67,7 +67,7 @@ npm run serve
 5. Open in browser:
 
 
-## 🌐 Deployment
+## Deployment
 
 This project can be deployed using:
 
@@ -107,7 +107,7 @@ User can delete an employee record using the delete button.
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 * Vue.js Components
 * Two-way Data Binding (`v-model`)
@@ -120,7 +120,7 @@ User can delete an employee record using the delete button.
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Built a dynamic web application using Vue.js
 * Integrated REST API using Axios
@@ -130,27 +130,27 @@ User can delete an employee record using the delete button.
 
 ---
 
-## 📚 Academic Mapping
+## Academic Mapping
 
 * **CO4:** Develop dynamic web applications using modern frameworks
 * **CO5:** Integrate frontend applications with APIs
 
 ---
 
-## 🙌 Acknowledgement
+## Acknowledgement
 
 This project was developed as part of a Web Programming Lab to demonstrate practical implementation of Vue.js and API integration.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Keerthana R**
 Computer Science Student
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
