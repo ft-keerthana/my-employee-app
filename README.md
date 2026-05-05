@@ -106,6 +106,9 @@ User can delete an employee record using the delete button.
 ![After Deletion](./screenshots/After-Deletion.png)
 
 ---
+## Live Demo
+https://ft-keerthana.github.io/my-employee-app/
+
 
 ## Concepts Used
 
